@@ -32,7 +32,7 @@ I am a **Full-Stack Developer** with a Computer Science background, specializing
 
 ##
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🛠 My Tech Stack
 
@@ -42,7 +42,7 @@ I am a **Full-Stack Developer** with a Computer Science background, specializing
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 
-</div>
+</div> -->
 
 ##
 
