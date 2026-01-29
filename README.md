@@ -50,9 +50,20 @@ I am a **Full-Stack Developer** with a Computer Science background, specializing
 * **B.Sc. in Computer Science** — Focus on algorithmic efficiency and systematic problem-solving.
 * **Music Production** — Creative arrangement and audio engineering.
 
+###
 
+<pre align="center" >
+   ▄▄▄▄▀ ██   ▄███▄   █▄▄▄▄ ██   ███ ▀▄    ▄   ▄▄▄▄▀ ▄███▄   
+▀▀▀ █    █ █  █▀   ▀  █  ▄▀ █ █  █  █  █  █ ▀▀▀ █    █▀   ▀  
+    █    █▄▄█ ██▄▄    █▀▀▌  █▄▄█ █ ▀ ▄  ▀█      █    ██▄▄    
+   █     █  █ █▄   ▄▀ █  █  █  █ █  ▄▀  █      █     █▄   ▄▀ 
+  ▀         █ ▀███▀     █      █ ███  ▄▀      ▀      ▀███▀   
+           █           ▀      █                              
+          ▀                  ▀                               
 
-##
 <p align="center">
   <em>“ think you ”</em>
 </p>
+</pre>
+
+##
