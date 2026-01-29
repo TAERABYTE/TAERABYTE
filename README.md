@@ -44,8 +44,6 @@ I am a **Full-Stack Developer** with a Computer Science background, specializing
 
 </div> -->
 
-##
-
 ### 🎓 Education & Background
 * **B.Sc. in Computer Science** — Focus on algorithmic efficiency and systematic problem-solving.
 * **Music Production** — Creative arrangement and audio engineering.
