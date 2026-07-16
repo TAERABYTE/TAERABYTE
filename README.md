@@ -1,6 +1,6 @@
 <h1 align="center">TAERABYTE</h1>
 <p align="center">
-  <sub>FULL-STACK DEVELOPER &nbsp;●&nbsp; SYSTEM ARCHITECT &nbsp;</sub>
+  <sub>&nbsp;●&nbsp;FULL-STACK DEVELOPER &nbsp;●&nbsp; SYSTEM ARCHITECT &nbsp;●&nbsp;</sub>
 </p>
 
 ---
