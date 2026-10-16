@@ -40,6 +40,8 @@
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![Zustand](https://img.shields.io/badge/Zustand-black?logo=Zustand)](#)
+[![Pinia](https://img.shields.io/badge/Pinia-4FC08D?logo=Pinia)](#)
 
 **Backend & Data**
 
